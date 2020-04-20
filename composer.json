@@ -1,0 +1,20 @@
+{
+  "name": "pmpro-composer/add-name-to-checkout",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "paid memberships pro"
+  ],
+  "homepage": "https://www.paidmembershipspro.com/add-ons/add-first-last-name-to-checkout/",
+  "authors": [
+    {
+      "name": "Paid Memberships Pro",
+      "homepage": "https://www.paidmembershipspro.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.4"
+  }
+}
